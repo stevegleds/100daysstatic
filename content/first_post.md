@@ -16,4 +16,7 @@ We're writing this in Markdown format so we can use two asterisks for **bold **
 
 We can also use a single asterisk to *italicise* a word.
 
+###Let's add an image here
+![Landscape Image]({static}/images/landscape320.jpg)
+
 THE END! (Cool)
