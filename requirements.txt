@@ -14,7 +14,7 @@ checkio-client==0.1.17
 Click==7.0
 colorama==0.4.1
 cycler==0.10.0
-Django==2.2.4
+Django==2.2.8
 docutils
 feedgenerator==1.9
 idna==2.8
